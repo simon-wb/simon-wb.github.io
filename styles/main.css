@@ -759,14 +759,11 @@ a {
   margin: 4px 8px;
 }
 
-      .sidebar {
-        width: 38.2%;
-      }
-      .main-container {
-        margin-left: 38.2%;
-      }
-    
       .sidebar .top-container .site-nav {
         color: rgba(0, 153, 153, 0.9)）;
+      }
+    
+      .post-item .right .feature-container {
+        border-radius: 9px;
       }
     
